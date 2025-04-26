@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|c:\\users\\narmi\\desktop\\code\\juan_app\\juan_app\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|solutionrelative:juan_app\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|c:\\users\\narmi\\desktop\\code\\juan_app\\juan_app\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|solutionrelative:juan_app\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|c:\\users\\narmi\\desktop\\code\\juan_app\\juan_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|solutionrelative:juan_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|c:\\users\\narmi\\desktop\\code\\juan_app\\juan_app\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|solutionrelative:juan_app\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|c:\\users\\narmi\\desktop\\code\\juan_app\\juan_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|solutionrelative:juan_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|c:\\users\\narmi\\desktop\\code\\juan_app\\juan_app\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|solutionrelative:juan_app\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|c:\\users\\narmi\\desktop\\code\\juan_app\\juan_app\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|solutionrelative:juan_app\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|c:\\users\\narmi\\desktop\\code\\juan_app\\juan_app\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|solutionrelative:juan_app\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|c:\\users\\narmi\\desktop\\code\\juan_app\\juan_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|solutionrelative:juan_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|c:\\users\\narmi\\desktop\\code\\juan_app\\juan_app\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|solutionrelative:juan_app\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|c:\\users\\narmi\\desktop\\code\\juan_app\\juan_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|solutionrelative:juan_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|c:\\users\\narmi\\desktop\\code\\juan_app\\juan_app\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|solutionrelative:juan_app\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|c:\\users\\narmi\\desktop\\code\\juan_app\\juan_app\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|solutionrelative:juan_app\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|c:\\users\\narmi\\desktop\\code\\juan_app\\juan_app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F37C3DF-2FCF-4E93-B926-0C1508E6C733}|Juan_app\\Juan_app.csproj|solutionrelative:juan_app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Juan_app\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "Juan_app\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAUwJkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T17:15:44.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Juan_app\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Juan_app\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T16:54:39.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Juan_app\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Juan_app\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T16:54:06.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Juan_app\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Juan_app\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAABoCAAAAAAAAAAAuwC0CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T16:21:26.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Juan_app\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Juan_app\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAADwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T15:37:39.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Juan_app\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Juan_app\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T15:08:42.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Juan_app\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Juan_app\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T14:08:06.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Juan_app\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Juan_app\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAUwNUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T14:09:16.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Juan_app\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Juan_app\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T15:46:34.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\appsettings.json",
+              "RelativeDocumentMoniker": "Juan_app\\appsettings.json",
+              "ToolTip": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\appsettings.json",
+              "RelativeToolTip": "Juan_app\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T16:22:42.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Juan_app\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Juan_app\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-26T15:32:18.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Program.cs",
+              "RelativeDocumentMoniker": "Juan_app\\Program.cs",
+              "ToolTip": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Program.cs",
+              "RelativeToolTip": "Juan_app\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:59:54.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Views\\Shop\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Juan_app\\Views\\Shop\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Views\\Shop\\Detail.cshtml",
+              "RelativeToolTip": "Juan_app\\Views\\Shop\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T15:24:47.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Juan_app\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Juan_app\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:07:32.741Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
