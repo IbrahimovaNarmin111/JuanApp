@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Juan_app.csproj": {}
+    "C:\\Users\\narmi\\Desktop\\JuanApp\\Juan_app\\Juan_app\\Juan_app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Juan_app.csproj": {
+    "C:\\Users\\narmi\\Desktop\\JuanApp\\Juan_app\\Juan_app\\Juan_app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Juan_app.csproj",
+        "projectUniqueName": "C:\\Users\\narmi\\Desktop\\JuanApp\\Juan_app\\Juan_app\\Juan_app.csproj",
         "projectName": "Juan_app",
-        "projectPath": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\Juan_app.csproj",
+        "projectPath": "C:\\Users\\narmi\\Desktop\\JuanApp\\Juan_app\\Juan_app\\Juan_app.csproj",
         "packagesPath": "C:\\Users\\narmi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\narmi\\Desktop\\Code\\Juan_app\\Juan_app\\obj\\",
+        "outputPath": "C:\\Users\\narmi\\Desktop\\JuanApp\\Juan_app\\Juan_app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,24 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.18, )"
